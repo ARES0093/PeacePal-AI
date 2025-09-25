@@ -130,7 +130,7 @@ Once the setup is complete, run the following command in your terminal:
 streamlit run app.py
 ```
 
-##10. Future Improvements 💡
+## 10. Future Improvements 💡
   This project has a strong foundation, but there are many ways it could be enhanced:
 
 -Real-time Microphone Input: Implement live speech-to-text directly from the user's microphone instead of file uploads.
